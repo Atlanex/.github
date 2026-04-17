@@ -1,6 +1,13 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/atlanex/.github/main/assets/atlanex-banner-dark.png" alt="Atlanex" width="480"/>
-</p>
+<div style="height:90px; display:flex; align-items:center; justify-content:center; margin-bottom:10px; background:#0d0b1a; border-radius:12px; border:0.5px solid #2a2a2a;">
+  <svg width="240" height="52" viewBox="0 0 240 52" xmlns="http://www.w3.org/2000/svg">
+    <polygon points="26,4 48,46 4,46" fill="#6952E6"/>
+    <polygon points="26,4 48,46 26,46" fill="#AFA9EC" opacity="0.55"/>
+    <polygon points="12,46 40,46 26,26" fill="#0d0b1a"/>
+    <text x="62" y="34" font-family="system-ui, sans-serif" font-size="28" font-weight="500" fill="#ffffff">
+      Atlanex
+    </text>
+  </svg>
+</div>
 
 <p align="center">
   <strong>Construimos productos que la gente usa todos los días.</strong>
